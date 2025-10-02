@@ -1,4 +1,6 @@
 n = int(input("Number: "))
+if n<0:
+  exit()
 if n%2==0: # fixed the comparision.
   print("Even")
 else:
