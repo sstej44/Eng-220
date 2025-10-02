@@ -1,0 +1,3 @@
+n = int(input("N: "))
+for i in range(10):
+  print(N,"*",i,"=",N*i)
