@@ -4,4 +4,4 @@ if n<0:
 if n%2==0: # fixed the comparision.
   print("Even")
 else:
-  print("Odd")
+  print("Odd") # New changes made
